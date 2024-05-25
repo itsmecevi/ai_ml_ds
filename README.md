@@ -51,6 +51,11 @@ Beginner to Advanced Course...
 - Data Preparation (Prompt ChatGPT)
 
 ### Week 7-8: Supervised Learning
+- Regression
+- Classification
+      - Biner
+      - Multiclass
+      - Multilabel
 
 ### Week 9-10: Unsupervised Learning
 
