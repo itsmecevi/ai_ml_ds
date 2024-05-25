@@ -126,5 +126,16 @@ ____
 For an intermediate machine learning curriculum, we can build on the foundational knowledge and introduce more complex topics, advanced techniques, and deeper understanding of algorithms and their implementations. 
 Here’s a structured curriculum for intermediate learners:
 
+### Week 1-2: Advanced Data Preprocessing and Feature Engineering
+
+- Advanced Data Cleaning Techniques
+  - Handling Imbalanced Data
+  - Outlier Detection and Treatment
+  - Advanced Encoding Techniques (Target Encoding, Frequency Encoding)
+
+- Feature Engineering
+  - Feature Extraction and Selection
+  - Creating New Features
+  - Dimensionality Reduction Techniques (LDA, ICA)
 
 ## Advanced Level 🏅
