@@ -29,8 +29,19 @@ Beginner to Advanced Machine Learning Course...
     - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
     - "Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili
 * Online Courses
+    - Coursera: Machine Learning by Andrew Ng
+    - edX: Introduction to Computational Thinking and Data Science
+    - Udacity: Intro to Machine Learning with PyTorch and TensorFlow
+
 * Tools
+    - Jupyter Notebooks
+    - Scikit-learn
+    - TensorFlow and Keras
+      
 * Final Notes
+    - Encourage consistent practice and hands-on experimentation.
+    - Promote engagement with the machine learning community through forums and discussion groups.
+    - Keep up-to-date with the latest research and advancements in the field.
 
 ## Intermediate Level
 
