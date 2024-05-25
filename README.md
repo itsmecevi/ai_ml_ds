@@ -4,7 +4,7 @@
 Beginner to Advanced Machine Learning Course...
 
 
-## Beginner Level
+## Beginner Level 🛡️
 
 ### Week 1-2: Introduction to Machine Learning
 
