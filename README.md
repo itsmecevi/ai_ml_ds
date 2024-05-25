@@ -37,6 +37,9 @@ Beginner to Advanced Machine Learning Course...
 * Books
     - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
     - "Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili
+    - "Math for Data Science" by Samuel S. Watson
+    - "Essential Math for Data Science" by Thomas Nield
+      
 * Online Courses
     - Coursera: Machine Learning by Andrew Ng
     - edX: Introduction to Computational Thinking and Data Science
