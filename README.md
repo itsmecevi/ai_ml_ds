@@ -25,29 +25,26 @@ Beginner to Advanced Course...
 **Python**
 
 
-### Week 3-4: Basics Math and Statistics
+### Week 3-4: Basics Math, Probability, and Statistics
 
 **Basics Math**
 - Sets and functions (B3: 6-12)
 - Linear Algebra (B3: 31-60)
 - Basic Math and Calculus Review (B4: Chapt. 1)
 - Multivariable Calculus (B3: 61-70)
-- Probability (B3: 88-129 & B4: Chapt. 2)
+
+**Probability**
+- B3: 88-129 
+- B4: Chapt. 2
 
 **Basic Stats**
-
+- Descriptive Stats (B4: Chapt. 3)
+- Inferential Stats (B4: Chapt. 3)
 
 
 ### Week 3-4: Python for Machine Learning
 
-**Python Basics**
-- Introduction to Python Programming
-- Data Structures: Lists, Dictionaries, Tuples, Sets
-- Control Structures: Loops, Conditionals, Functions
-**Python Libraries**
-- NumPy: Numerical Computing
-- Pandas: Data Manipulation and Analysis
-- Matplotlib and Seaborn: Data Visualization
+
 
 ### Week 5-6: Data Preprocessing and Exploration
 
