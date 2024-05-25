@@ -9,8 +9,8 @@ Beginner to Advanced Machine Learning Course...
 ### Week 1-2: Introduction to Machine Learning
 
 **Overview of Machine Learning**
-- Definition and Types of Machine Learning (Supervised, Unsupervised, Reinforcement Learning)
-- Real-world Applications of Machine Learning
+- Definition and Types of Machine Learning (Supervised, Unsupervised, Reinforcement Learning) (B1: 1-33)
+- Real-world Applications of Machine Learning (Prompt ChatGPT)
 
 **Basic Mathematics for Machine Learning**
 - Linear Algebra: Vectors, Matrices, Operations
@@ -44,10 +44,10 @@ Beginner to Advanced Machine Learning Course...
 ### Extras:
 
 * Books
-    - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
-    - "Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili
-    - "Math for Data Science" by Samuel S. Watson
-    - "Essential Math for Data Science" by Thomas Nield
+    - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron (B1)
+    - "Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili (B2)
+    - "Math for Data Science" by Samuel S. Watson (B3)
+    - "Essential Math for Data Science" by Thomas Nield (B4)
       
 * Online Courses
     - Coursera: Machine Learning by Andrew Ng
