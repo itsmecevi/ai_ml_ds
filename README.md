@@ -266,3 +266,36 @@ This curriculum will also emphasize practical experience with large-scale projec
 
 ### Week 5-6: Probabilistic Graphical Models and Bayesian Methods
 
+- Graphical Models
+  - Bayesian Networks
+  - Markov Random Fields
+  - Hidden Markov Models (HMMs)
+
+- Bayesian Machine Learning
+  - Bayesian Inference
+  - Variational Inference
+  - Bayesian Neural Networks
+
+### Week 7-8: Advanced Unsupervised and Semi-Supervised Learning
+
+- Advanced Clustering Techniques
+  - Hierarchical Dirichlet Process (HDP)
+  - Self-Organizing Maps (SOM)
+- Semi-Supervised Learning
+  - Self-Training and Co-Training
+  - Graph-Based Semi-Supervised Learning
+
+### Week 9-10: Generative Models and Advanced Applications
+
+- Generative Models
+  - Generative Adversarial Networks (GANs) and Variants (CycleGAN, StyleGAN)
+  - Variational Autoencoders (VAEs)
+  - Normalizing Flows
+    
+- Advanced Applications
+  - Image Synthesis and Style Transfer
+  - Text Generation and Summarization
+  - Advanced Time Series Forecasting
+ 
+
+### Week 11-12: Scalability, Efficiency, and Optimization
