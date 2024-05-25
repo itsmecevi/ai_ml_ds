@@ -9,7 +9,7 @@ Beginner to Advanced Machine Learning Course...
 ### Week 1-2: Introduction to Machine Learning
 
 **Overview of Machine Learning**
-- Definition and Types of Machine Learning (Supervised, Unsupervised, Reinforcement Learning) (B1: 1-33)
+- Definition and Types of Machine Learning: Supervised, Unsupervised, and Reinforcement Learning (B1: 1-33)
 - Real-world Applications of Machine Learning (Prompt ChatGPT)
 
 **Basic Mathematics for Machine Learning**
