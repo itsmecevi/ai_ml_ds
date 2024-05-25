@@ -23,6 +23,8 @@ Beginner to Advanced Course...
 - Tools and Technologies (Prompt ChatGPT)
 
 **Python**
+- "Think Python" by Allen Downey (B5)
+- "Learn Python the Hard Way" by Zed Shaw (B6)
 
 
 ### Week 3-4: Basics Math, Probability, and Statistics
@@ -40,10 +42,6 @@ Beginner to Advanced Course...
 **Basic Stats**
 - Descriptive Stats (B4: Chapt. 3)
 - Inferential Stats (B4: Chapt. 3)
-
-
-### Week 3-4: Python for Machine Learning
-
 
 
 ### Week 5-6: Data Preprocessing and Exploration
@@ -66,6 +64,8 @@ Beginner to Advanced Course...
     - "Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili (B2)
     - "Math for Data Science" by Samuel S. Watson (B3)
     - "Essential Math for Data Science" by Thomas Nield (B4)
+    - "Think Python" by Allen Downey (B5)
+    - "Learn Python the Hard Way" by Zed Shaw (B6)
       
 * Online Courses
     - Coursera: Machine Learning by Andrew Ng
