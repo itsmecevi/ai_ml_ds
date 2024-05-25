@@ -212,5 +212,26 @@ Here’s a structured curriculum for intermediate learners:
 
 ### Extras
 
+- Books
+  - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+  - "Pattern Recognition and Machine Learning" by Christopher M. Bishop
+  - "Machine Learning Yearning" by Andrew Ng
+
+- Online Courses
+  - Coursera: Deep Learning Specialization by Andrew Ng
+  - edX: Machine Learning with Python: from Linear Models to Deep Learning
+  - Udacity: Deep Reinforcement Learning Nanodegree
+
+- Tools
+  - TensorFlow and Keras for Deep Learning
+  - PyTorch for Deep Learning
+  - Apache Spark for Big Data Processing
+
+- Final Notes
+  - Emphasize practical experience through projects and competitions.
+  - Stay updated with the latest research papers and technological advancements.
+  - Engage with the community through meetups, conferences, and online forums.
+  - Encourage contribution to open-source projects and collaboration with peers.
+
 
 ## Advanced Level 🏅
