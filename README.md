@@ -138,4 +138,79 @@ Here’s a structured curriculum for intermediate learners:
   - Creating New Features
   - Dimensionality Reduction Techniques (LDA, ICA)
 
+### Week 3-4: Advanced Supervised Learning Techniques
+
+- Advanced Regression Techniques
+  - Ridge and Lasso Regression
+  - Elastic Net
+  - Bayesian Regression
+- Advanced Classification Techniques
+  - Support Vector Machines (SVM)
+  - Naive Bayes
+  - Advanced Decision Trees (CART, C4.5)
+
+### Week 5-6: Deep Learning Fundamentals
+
+- Neural Networks Basics
+  - Deep Neural Networks (DNN)
+  - Training Neural Networks: Forward and Backward Propagation
+  - Regularization Techniques: Dropout, Batch Normalization
+
+
+### Week 7-8: Advanced Deep Learning
+
+- Convolutional Neural Networks (CNN)
+  - Architecture: Convolutions, Pooling, Fully Connected Layers
+  - Applications in Image Processing
+    
+- Recurrent Neural Networks (RNN)
+  - Basics of RNN, LSTM, GRU
+  - Applications in Sequence Data (Text, Time Series)
+
+- Transfer Learning
+  - Pre-trained Models
+  - Fine-Tuning and Feature Extraction
+ 
+### Week 9-10: Unsupervised Learning and Reinforcement Learning
+
+- Advanced Clustering Techniques
+  - Gaussian Mixture Models (GMM)
+  - Spectral Clustering
+  - BIRCH
+    
+- Reinforcement Learning Basics
+  - Key Concepts: Agent, Environment, Policy, Reward
+  - Q-Learning
+  - Deep Q-Networks (DQN)
+
+### Week 11-12: Model Deployment and Scalability
+
+- Model Deployment: Streamlit
+- Model Deployment: Flask
+- Model Deployment: FastAPI
+- Scalability and Optimization
+  - Model Optimization Techniques
+  - Working with Big Data Tools: Apache Spark, Dask
+
+### Week 13-14: Advanced Topics and Specialized Models
+
+- Natural Language Processing (NLP)
+- Computer Vision
+- Generative Models
+
+### Week 15-16: Practical Applications and Projects
+
+- Advanced Capstone Project
+  - Choose a complex, real-world dataset
+  - Define a challenging problem statement
+  - Apply advanced techniques to preprocess data, build, and evaluate models
+  - Implement model deployment and scalability solutions
+  - Document and present findings
+- Kaggle Competitions
+  - Participate in intermediate-level competitions
+  - Focus on optimizing model performance and feature engineering
+
+### Extras
+
+
 ## Advanced Level 🏅
