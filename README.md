@@ -44,7 +44,9 @@ Beginner to Advanced Course...
 - Inferential Stats (B4: Chapt. 3)
 
 
-### Week 5-6: Data Preprocessing and Exploration
+### Week 5-6: Exploratory Data Analysis (EDA) and Data Preparation
+- EDA (B7: Chapt. 1)
+- Data Preparation (Prompt ChatGPT)
 
 ### Week 7-8: Supervised Learning
 
@@ -66,7 +68,7 @@ Beginner to Advanced Course...
     - "Essential Math for Data Science" by Thomas Nield (B4)
     - "Think Python" by Allen Downey (B5)
     - "Learn Python the Hard Way" by Zed Shaw (B6)
-      
+    - "Practical Statistics for Data Science" by Peter and Andrew Bruce (B7)
 * Online Courses
     - Coursera: Machine Learning by Andrew Ng
     - edX: Introduction to Computational Thinking and Data Science
