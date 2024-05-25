@@ -52,6 +52,6 @@ Beginner to Advanced Machine Learning Course...
     - Promote engagement with the machine learning community through forums and discussion groups.
     - Keep up-to-date with the latest research and advancements in the field.
 
-## Intermediate Level
+## Intermediate Level ⭐
 
-## Advanced Level
+## Advanced Level 🏅
