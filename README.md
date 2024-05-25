@@ -8,6 +8,10 @@ Beginner to Advanced Machine Learning Course...
 
 ### Week 1-2: Introduction to Machine Learning
 
+**Overview of Machine Learning**
+- Definition and Types of Machine Learning (Supervised, Unsupervised, Reinforcement Learning)
+- Real-world Applications of Machine Learning
+
 ### Week 3-4: Python for Machine Learning
 
 ### Week 5-6: Data Preprocessing and Exploration
