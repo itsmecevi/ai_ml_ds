@@ -232,6 +232,37 @@ Here’s a structured curriculum for intermediate learners:
   - Stay updated with the latest research papers and technological advancements.
   - Engage with the community through meetups, conferences, and online forums.
   - Encourage contribution to open-source projects and collaboration with peers.
+____
 
 
 ## Advanced Level 🏅
+
+For an advanced machine learning curriculum, we will focus on deep dives into specialized topics, cutting-edge research, and the development of expertise in deploying and optimizing machine learning systems in real-world environments. 
+This curriculum will also emphasize practical experience with large-scale projects and contributions to the field.
+
+
+### Week 1-2: Advanced Deep Learning Architectures
+
+- Advanced Neural Network Architectures
+  - Deep Residual Networks (ResNet)
+  - Inception Networks
+  - EfficientNet
+
+- Attention Mechanisms and Transformers
+  - Self-Attention and Multi-Head Attention
+  - Transformer Architecture
+  - Applications in NLP and Computer Vision (e.g., BERT, GPT, Vision Transformers)
+
+
+### Week 3-4: Advanced Reinforcement Learning
+
+- Policy-Based Methods
+  - Policy Gradients
+  - Actor-Critic Methods
+  - Proximal Policy Optimization (PPO)
+- Model-Based Reinforcement Learning
+  - Planning with Models
+  - Model Predictive Control
+
+### Week 5-6: Probabilistic Graphical Models and Bayesian Methods
+
