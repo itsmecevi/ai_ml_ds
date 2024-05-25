@@ -25,6 +25,8 @@ Beginner to Advanced Course...
 **Python**
 - "Think Python" by Allen Downey (B5)
 - "Learn Python the Hard Way" by Zed Shaw (B6)
+- "Python Notes for Professional" by books.goalkicker.com
+
 
 
 ### Week 3-4: Basics Math, Probability, and Statistics
@@ -69,6 +71,7 @@ Beginner to Advanced Course...
     - "Think Python" by Allen Downey (B5)
     - "Learn Python the Hard Way" by Zed Shaw (B6)
     - "Practical Statistics for Data Science" by Peter and Andrew Bruce (B7)
+    - "Python Notes for Professional" by books.goalkicker.com
 * Online Courses
     - Coursera: Machine Learning by Andrew Ng
     - edX: Introduction to Computational Thinking and Data Science
