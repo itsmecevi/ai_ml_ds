@@ -1,7 +1,7 @@
 
-# Machine Learning Curriculum
+# AI, ML, DS Curriculum
 
-Beginner to Advanced Machine Learning Course...
+Beginner to Advanced Course...
 
 
 ## Beginner Level 🛡️
@@ -12,12 +12,21 @@ Beginner to Advanced Machine Learning Course...
 - Definition and Types of Machine Learning: Supervised, Unsupervised, and Reinforcement Learning (B1: 1-33)
 - Real-world Applications of Machine Learning (Prompt ChatGPT)
 
-**Basic Mathematics for Machine Learning**
+**Python**
+
+
+### Week 3-4: Basics Math and Statistics
+
+**Basics Math**
 - Sets and functions (B3: 6-12)
 - Linear Algebra (B3: 31-60)
 - Basic Math and Calculus Review (B4: Chapt. 1)
 - Multivariable Calculus (B3: 61-70)
 - Probability (B3: 88-129 & B4: Chapt. 2)
+
+**Basic Stats**
+
+
 
 ### Week 3-4: Python for Machine Learning
 
