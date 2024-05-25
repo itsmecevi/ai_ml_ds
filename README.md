@@ -6,11 +6,21 @@ Beginner to Advanced Course...
 
 ## Beginner Level 🛡️
 
-### Week 1-2: Introduction to Machine Learning
+### Week 1-2: Introduction to AI, ML, DS
 
-**Overview of Machine Learning**
-- Definition and Types of Machine Learning: Supervised, Unsupervised, and Reinforcement Learning (B1: 1-33)
-- Real-world Applications of Machine Learning (Prompt ChatGPT)
+**Overview of AI**
+- Definition and Types of AI: Based on Capability, Functionality, and Techniques (Prompt ChatGPT)
+- Real-world Applications of AI (Prompt ChatGPT)
+
+**Overview of ML**
+- Definition and Types of ML: Supervised, Unsupervised, and Reinforcement Learning (B1: 1-33)
+- Real-world Applications of ML (Prompt ChatGPT)
+
+**Overview of DS**
+- Key Components of Data Science
+- Key Concepts in Data Science
+- The Data Science Process
+- Tools and Technologies
 
 **Python**
 
