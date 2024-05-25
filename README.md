@@ -119,9 +119,12 @@ Here's a structured curriculum designed to provide a comprehensive understanding
     - Encourage consistent practice and hands-on experimentation.
     - Promote engagement with the machine learning community through forums and discussion groups.
     - Keep up-to-date with the latest research and advancements in the field.
+____
 
 ## Intermediate Level ⭐
 
+For an intermediate machine learning curriculum, we can build on the foundational knowledge and introduce more complex topics, advanced techniques, and deeper understanding of algorithms and their implementations. 
+Here’s a structured curriculum for intermediate learners:
 
 
 ## Advanced Level 🏅
