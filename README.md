@@ -13,9 +13,11 @@ Beginner to Advanced Machine Learning Course...
 - Real-world Applications of Machine Learning (Prompt ChatGPT)
 
 **Basic Mathematics for Machine Learning**
-- Linear Algebra: Vectors, Matrices, Operations
-- Probability and Statistics: Probability Distributions, Mean, Variance, Standard Deviation
-- Calculus: Derivatives, Integrals, Gradient Descent
+- Sets and functions (B3: 6-12)
+- Linear Algebra (B3: 31-60)
+- Basic Math and Calculus Review (B4: Chapt. 1)
+- Multivariable Calculus (B3: 61-70)
+- Probability (B3: 88-129 & B4: Chapt. 2)
 
 ### Week 3-4: Python for Machine Learning
 
