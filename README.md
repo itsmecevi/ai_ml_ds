@@ -17,10 +17,10 @@ Beginner to Advanced Course...
 - Real-world Applications of ML (Prompt ChatGPT)
 
 **Overview of DS**
-- Key Components of Data Science
-- Key Concepts in Data Science
-- The Data Science Process
-- Tools and Technologies
+- Key Components of Data Science (Prompt ChatGPT)
+- Key Concepts in Data Science (Prompt ChatGPT)
+- The Data Science Process (Prompt ChatGPT)
+- Tools and Technologies (Prompt ChatGPT)
 
 **Python**
 
