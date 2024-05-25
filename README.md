@@ -12,6 +12,11 @@ Beginner to Advanced Machine Learning Course...
 - Definition and Types of Machine Learning (Supervised, Unsupervised, Reinforcement Learning)
 - Real-world Applications of Machine Learning
 
+**Basic Mathematics for Machine Learning**
+- Linear Algebra: Vectors, Matrices, Operations
+- Probability and Statistics: Probability Distributions, Mean, Variance, Standard Deviation
+- Calculus: Derivatives, Integrals, Gradient Descent
+
 ### Week 3-4: Python for Machine Learning
 
 ### Week 5-6: Data Preprocessing and Exploration
