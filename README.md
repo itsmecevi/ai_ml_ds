@@ -53,10 +53,9 @@ Beginner to Advanced Course...
 ### Week 7-8: Supervised Learning
 - Regression
 - Classification
-  
-      - Biner
-      - Multiclass
-      - Multilabel
+  - Biner
+  - Multiclass
+  - Multilabel
 
 ### Week 9-10: Unsupervised Learning
 - Clustering
@@ -64,9 +63,10 @@ Beginner to Advanced Course...
 
 ### Week 11-12: Model Evaluation and Selection
 - Model Evaluation Techniques
-      - Cross-Validation
-      - Bias-Variance Tradeoff
-- Model Selection and Tuning
+  - Cross-Validation
+  - Bias-Variance Tradeoff
+- Model Selection
+- Model Tuning
 
 ### Week 13-14: Advanced Topics and Techniques
 
