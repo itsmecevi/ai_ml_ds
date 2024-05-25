@@ -19,6 +19,15 @@ Beginner to Advanced Machine Learning Course...
 
 ### Week 3-4: Python for Machine Learning
 
+**Python Basics**
+- Introduction to Python Programming
+- Data Structures: Lists, Dictionaries, Tuples, Sets
+- Control Structures: Loops, Conditionals, Functions
+**Python Libraries**
+- NumPy: Numerical Computing
+- Pandas: Data Manipulation and Analysis
+- Matplotlib and Seaborn: Data Visualization
+
 ### Week 5-6: Data Preprocessing and Exploration
 
 ### Week 7-8: Supervised Learning
