@@ -9,18 +9,18 @@ Beginner to Advanced Course...
 ### Week 1-2: Introduction to AI, ML, DS
 
 **Overview of AI**
-- Definition and Types of AI: Based on Capability, Functionality, and Techniques (Prompt ChatGPT)
-- Real-world Applications of AI (Prompt ChatGPT)
+- Definition and Types of AI: Based on Capability, Functionality, and Techniques 
+- Real-world Applications of AI 
 
 **Overview of ML**
 - Definition and Types of ML: Supervised, Unsupervised, and Reinforcement Learning (B1: 1-33)
-- Real-world Applications of ML (Prompt ChatGPT)
+- Real-world Applications of ML 
 
 **Overview of DS**
-- Key Components of Data Science (Prompt ChatGPT)
-- Key Concepts in Data Science (Prompt ChatGPT)
-- The Data Science Process (Prompt ChatGPT)
-- Tools and Technologies (Prompt ChatGPT)
+- Key Components of Data Science 
+- Key Concepts in Data Science 
+- The Data Science Process 
+- Tools and Technologies 
 
 **Python**
 - "Think Python" by Allen Downey (B5)
@@ -60,6 +60,7 @@ Beginner to Advanced Course...
 ### Week 9-10: Unsupervised Learning
 - Clustering
 - Dimensionality Reduction
+- Outliers Detection
 
 ### Week 11-12: Model Evaluation and Selection
 - Model Evaluation Techniques
@@ -67,11 +68,29 @@ Beginner to Advanced Course...
   - Bias-Variance Tradeoff
 - Model Selection
 - Model Tuning
+- Grid Search and Random Search
+- Hyperparameter Tuning
+- Regularization: L1 and L2
 
 ### Week 13-14: Advanced Topics and Techniques
+- Ensemble Methods
+  - Bagging: Random Forest
+  - Boosting: Gradient Boosting, AdaBoost, XGBoost
+  - Stacking
+- Introduction to Neural Networks
+  - Perceptrons and Multilayer Perceptrons (MLPs)
+  - Activation Functions
+  - Backpropagation
 
 ### Week 15-16: Practical Applications and Projects
-
+- Capstone Project
+  - Choose a real-world dataset
+  - Define the problem statement
+  - Apply the learned techniques to preprocess data, build, and evaluate models
+  - Document and present findings
+- Kaggle Competitions
+  - Participate in beginner-friendly competitions
+  - Engage with the community to learn best practices and improve skills
 
 ### Extras:
 
