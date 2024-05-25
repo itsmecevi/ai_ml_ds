@@ -1,10 +1,12 @@
-
 # AI, ML, DS Curriculum
 
 Beginner to Advanced Course...
 
 
 ## Beginner Level 🛡️
+
+Creating a curriculum for a beginner in machine learning involves introducing the fundamental concepts, techniques, and tools, and then gradually progressing to more advanced topics. 
+Here's a structured curriculum designed to provide a comprehensive understanding of machine learning:
 
 ### Week 1-2: Introduction to AI, ML, DS
 
@@ -119,5 +121,7 @@ Beginner to Advanced Course...
     - Keep up-to-date with the latest research and advancements in the field.
 
 ## Intermediate Level ⭐
+
+
 
 ## Advanced Level 🏅
